@@ -1,0 +1,161 @@
+{
+    "campers": [
+        {
+            "id": 1097101293,
+            "nombres": "Sergio Andres",
+            "apellidos": "Rueda Hernandez",
+            "direccion": "Calle 30 #4a-17",
+            "acudiente": "Ana Hernandez",
+            "telefono": "3163644960",
+            "estado": "Cursando",
+            "riesgo": "Medio"
+        },
+        {
+            "id": 1097203456,
+            "nombres": "Valentina Sofia",
+            "apellidos": "Gomez Rivera",
+            "direccion": "Carrera 15 #8-22",
+            "acudiente": "Carlos Gomez",
+            "telefono": "3205678923",
+            "estado": "Inscrito",
+            "riesgo": "Bajo"
+        },
+        {
+            "id": 1097309876,
+            "nombres": "Juan David",
+            "apellidos": "Martinez Perez",
+            "direccion": "Calle 50 #12-34",
+            "acudiente": "Laura Perez",
+            "telefono": "3147896543",
+            "estado": "Aprobado",
+            "riesgo": "Bajo"
+        },
+        {
+            "id": 1097407654,
+            "nombres": "Maria Alejandra",
+            "apellidos": "Lopez Torres",
+            "direccion": "Avenida 6 #45-90",
+            "acudiente": "Luis Lopez",
+            "telefono": "3112345678",
+            "estado": "Cursando",
+            "riesgo": "Medio"
+        },
+        {
+            "id": 1097504321,
+            "nombres": "Daniel Esteban",
+            "apellidos": "Ramirez Castro",
+            "direccion": "Calle 23 #6-78",
+            "acudiente": "Martha Castro",
+            "telefono": "3187654321",
+            "estado": "Expulsado",
+            "riesgo": "Alto"
+        },
+        {
+            "id": 1097609871,
+            "nombres": "Camila Fernanda",
+            "apellidos": "Hernandez Vargas",
+            "direccion": "Carrera 10 #34-56",
+            "acudiente": "Pedro Hernandez",
+            "telefono": "3109876543",
+            "estado": "Graduado",
+            "riesgo": "Bajo"
+        },
+        {
+            "id": 1097706543,
+            "nombres": "Jose Miguel",
+            "apellidos": "Ortega Serrano",
+            "direccion": "Diagonal 77 #10-11",
+            "acudiente": "Andrea Serrano",
+            "telefono": "3124567890",
+            "estado": "Retirado",
+            "riesgo": "Medio"
+        },
+        {
+            "id": 1097803210,
+            "nombres": "Natalia Beatriz",
+            "apellidos": "Paredes Montoya",
+            "direccion": "Calle 98 #23-45",
+            "acudiente": "Carlos Paredes",
+            "telefono": "3198765432",
+            "estado": "Cursando",
+            "riesgo": "Bajo"
+        },
+        {
+            "id": 1097907890,
+            "nombres": "Kevin Andres",
+            "apellidos": "Salazar Gomez",
+            "direccion": "Carrera 5 #99-12",
+            "acudiente": "Juan Salazar",
+            "telefono": "3156789123",
+            "estado": "Aprobado",
+            "riesgo": "Bajo"
+        },
+        {
+            "id": 1098005678,
+            "nombres": "Laura Isabel",
+            "apellidos": "Mejia Rojas",
+            "direccion": "Calle 44 #2-89",
+            "acudiente": "Sandra Rojas",
+            "telefono": "3178901234",
+            "estado": "Inscrito",
+            "riesgo": "Alto"
+        },
+        {
+            "id": 1098104321,
+            "nombres": "Oscar Eduardo",
+            "apellidos": "Gonzalez Marin",
+            "direccion": "Carrera 20 #78-56",
+            "acudiente": "Jose Gonzalez",
+            "telefono": "3223456789",
+            "estado": "Cursando",
+            "riesgo": "Medio"
+        },
+        {
+            "id": 1098209876,
+            "nombres": "Andrea Paola",
+            "apellidos": "Zapata Ruiz",
+            "direccion": "Diagonal 12 #30-20",
+            "acudiente": "Luz Zapata",
+            "telefono": "3101237894",
+            "estado": "Expulsado",
+            "riesgo": "Alto"
+        },
+        {
+            "id": 1098308765,
+            "nombres": "Fernando Antonio",
+            "apellidos": "Castro Jimenez",
+            "direccion": "Transversal 33 #50-99",
+            "acudiente": "Ricardo Castro",
+            "telefono": "3137894567",
+            "estado": "Cursando",
+            "riesgo": "Bajo"
+        },
+        {
+            "id": 1098406543,
+            "nombres": "Sofia Lucia",
+            "apellidos": "Mendoza Torres",
+            "direccion": "Avenida 56 #78-23",
+            "acudiente": "Diana Torres",
+            "telefono": "3206547891",
+            "estado": "Graduado",
+            "riesgo": "Bajo"
+        },
+        {
+            "id": 1098501234,
+            "nombres": "Luis Alfonso",
+            "apellidos": "Rodriguez Orozco",
+            "direccion": "Calle 67 #12-44",
+            "acudiente": "Paula Orozco",
+            "telefono": "3115674321",
+            "estado": "Retirado",
+            "riesgo": "Medio"
+        }
+    ],
+    
+    "trainers": [
+
+    ]
+
+    
+
+}
