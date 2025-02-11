@@ -1,0 +1,87 @@
+{ "Trainers": [{
+
+    "id":1,
+    "Nombre": "Pedro Gomez",
+    "Ruta": [1],
+    "Horario": "6.00Am / 6:00Pm"
+
+},
+{
+"id":2,
+    "Nombre": "Miguel",
+    "Ruta": [2],
+    "Horario": "6.00Am / 6:00Pm"
+
+},
+{
+
+    "id":3,
+    "Nombre": "Ana",
+    "Ruta": [3],
+    "Horario": "6.00Am / 2:00Pm"
+
+},
+{
+
+    "id":4,
+    "Nombre": "Lucia",
+    "Ruta": [],
+    "Horario": "6.00Am / 2:00Pm,     6:00Pm / 10:00Pm"
+
+},
+{
+
+    "id":5,
+    "Nombre": "Ambar",
+    "Ruta": [],
+    "Horario": "2:00Pm / 8:00Pm"
+}
+],
+"Rutas":[{
+    "id":1,
+
+    "Modulo1":
+    "Java",
+
+    "Skills1":
+    "intro, python, httml/css, scrum, git, javaSript, introBack, introBBDD, MySQL, SpringBot "
+    ,
+    
+    "Modu":
+    "NodeJSlo2",
+    
+    "Skills2":
+    "intro, python, httml/css, scrum, git, javaSript, introBack, introBBDD,mongoDB, JavaScript, MySQL, Express"
+},
+{
+    "id":2,
+
+    "Modulo1":
+    "Fundamientos de programacion ",
+
+    "Skills1": 
+    "Introduccion a la algoritmia, Pseint, Python",
+
+    "Modulo2": 
+    "Programacion web",
+
+    "skills2": 
+    "html, css, bootstrap"
+},
+{
+    "id":3,
+
+    "Modulo1":
+    "Programación formal ",
+
+    "Skills1": 
+    "Java, JavaScript, C#",
+
+    "Modulo2": 
+    "Bases de datos",
+
+    "skills2": 
+    "Mysql, MongoDb y Postgresql"
+}
+]
+    }
