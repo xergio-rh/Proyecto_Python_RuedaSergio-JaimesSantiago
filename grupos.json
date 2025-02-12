@@ -1,0 +1,29 @@
+{
+    "grupos": [
+        {
+            "s1": {
+                "salon": "Artemis",
+                "trainer": "Pedro",
+                "estudiantes": [
+                    {
+                        "Nombre": "venao"
+                    }
+                ]
+            }
+        },
+        {
+            "nombre del grupo": {
+                "salon": "Apollo",
+                "trainer": "Miguel",
+                "estudiantes": []
+            }
+        },
+        {
+            "nombre del grupo": {
+                "salon": "Apollo",
+                "trainer": "Miguel",
+                "estudiantes": []
+            }
+        }
+    ]
+}
