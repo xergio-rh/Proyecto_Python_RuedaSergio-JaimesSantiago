@@ -1,535 +1,50 @@
 {
     "salones": {
         "Apollo": {
-        "capacidad_maxima": 33,
-        "campers": [{
-            "id": 129817978,
-            "nombres": "Miguel",
-            "apellidos": "Martínez Sánchez",
-            "direccion": "Carrera 21 #86-31",
-            "acudiente": "Gabriela Díaz Fernández",
-            "telefono": "3496996868",
-            "estado": "Graduado",
-            "riesgo": "Bajo"
+            "clases": {
+                "mañana": {
+                    "grupo": []
+                },
+                "tarde": {
+                    "grupo": []
+                },
+                "noche": {
+                    "grupo": []
+                }
+            }
         },
-        {
-            "id": 601006240,
-            "nombres": "Ana María",
-            "apellidos": "Rodríguez Pérez",
-            "direccion": "Carrera 7 #50-39",
-            "acudiente": "David López Torres",
-            "telefono": "3387730789",
-            "estado": "Graduado",
-            "riesgo": "Medio"
-        },
-        {
-            "id": 737864698,
-            "nombres": "Ricardo",
-            "apellidos": "Rojas Herrera",
-            "direccion": "Carrera 60 #42-47",
-            "acudiente": "Mariana López Torres",
-            "telefono": "3763763187",
-            "estado": "En proceso de ingreso",
-            "riesgo": "Bajo"
-        },
-        {
-            "id": 501948408,
-            "nombres": "Alejandro",
-            "apellidos": "Rojas Herrera",
-            "direccion": "Carrera 12 #73-19",
-            "acudiente": "Ricardo Hernández Castro",
-            "telefono": "3252380929",
-            "estado": "En proceso de ingreso",
-            "riesgo": "Bajo"
-        },
-        {
-            "id": 598879083,
-            "nombres": "Camila",
-            "apellidos": "Hernández Castro",
-            "direccion": "Carrera 74 #95-17",
-            "acudiente": "Ana María Rodríguez Pérez",
-            "telefono": "3500286838",
-            "estado": "Cursando",
-            "riesgo": "Alto"
-        },
-        {
-            "id": 617292801,
-            "nombres": "Lucía",
-            "apellidos": "Gómez Ramírez",
-            "direccion": "Carrera 99 #67-12",
-            "acudiente": "Camila Navarro Medina",
-            "telefono": "3988996744",
-            "estado": "Graduado",
-            "riesgo": "Medio"
-        },
-        {
-            "id": 868494819,
-            "nombres": "Sebastián",
-            "apellidos": "Morales Vargas",
-            "direccion": "Carrera 9 #21-5",
-            "acudiente": "Isabela Rodríguez Pérez",
-            "telefono": "3014347818",
-            "estado": "Retirado",
-            "riesgo": "Bajo"
-        },
-        {
-            "id": 310699785,
-            "nombres": "Carlos",
-            "apellidos": "Rojas Herrera",
-            "direccion": "Carrera 71 #83-37",
-            "acudiente": "Ricardo Rojas Herrera",
-            "telefono": "3359212343",
-            "estado": "Cursando",
-            "riesgo": "Medio"
-        },
-        {
-            "id": 729723515,
-            "nombres": "Sofía",
-            "apellidos": "Ortega Jiménez",
-            "direccion": "Carrera 28 #13-2",
-            "acudiente": "Daniel Ortega Jiménez",
-            "telefono": "3709641199",
-            "estado": "En proceso de ingreso",
-            "riesgo": "Alto"
-        },
-        {
-            "id": 452723392,
-            "nombres": "Alejandro",
-            "apellidos": "Rojas Herrera",
-            "direccion": "Carrera 58 #23-1",
-            "acudiente": "David Gómez Ramírez",
-            "telefono": "3783456635",
-            "estado": "Graduado",
-            "riesgo": "Medio"
-        },
-        {
-            "id": 340407764,
-            "nombres": "Mariana",
-            "apellidos": "Gómez Ramírez",
-            "direccion": "Carrera 6 #26-14",
-            "acudiente": "Daniel Hernández Castro",
-            "telefono": "3440908643",
-            "estado": "Retirado",
-            "riesgo": "Bajo"
-        },
-        {
-            "id": 413316923,
-            "nombres": "Lucía",
-            "apellidos": "Gómez Ramírez",
-            "direccion": "Carrera 56 #22-44",
-            "acudiente": "Camila Morales Vargas",
-            "telefono": "3187813938",
-            "estado": "Retirado",
-            "riesgo": "Medio"
-        },
-        {
-            "id": 865594221,
-            "nombres": "Valentina",
-            "apellidos": "Díaz Fernández",
-            "direccion": "Carrera 3 #51-4",
-            "acudiente": "Miguel Morales Vargas",
-            "telefono": "3118122596",
-            "estado": "Cursando",
-            "riesgo": "Medio"
-        },
-        {
-            "id": 745295772,
-            "nombres": "Ricardo",
-            "apellidos": "Hernández Castro",
-            "direccion": "Carrera 32 #98-13",
-            "acudiente": "Miguel Díaz Fernández",
-            "telefono": "3015000392",
-            "estado": "Graduado",
-            "riesgo": "Alto"
-        },
-        {
-            "id": 343669717,
-            "nombres": "David",
-            "apellidos": "Rojas Herrera",
-            "direccion": "Carrera 36 #24-19",
-            "acudiente": "Camila Ortega Jiménez",
-            "telefono": "3720418459",
-            "estado": "Graduado",
-            "riesgo": "Bajo"
-        },
-        {
-            "id": 268958224,
-            "nombres": "Lucía",
-            "apellidos": "Gómez Ramírez",
-            "direccion": "Carrera 78 #63-49",
-            "acudiente": "Carlos Martínez Sánchez",
-            "telefono": "3747950845",
-            "estado": "Retirado",
-            "riesgo": "Alto"
-        },
-        {
-            "id": 276932054,
-            "nombres": "Sofía",
-            "apellidos": "López Torres",
-            "direccion": "Carrera 23 #58-48",
-            "acudiente": "Sofía Rodríguez Pérez",
-            "telefono": "3840014546",
-            "estado": "En proceso de ingreso",
-            "riesgo": "Medio"
-        },
-        {
-            "id": 472462533,
-            "nombres": "Sofía",
-            "apellidos": "Martínez Sánchez",
-            "direccion": "Carrera 72 #18-34",
-            "acudiente": "Patricia Gómez Ramírez",
-            "telefono": "3342222440",
-            "estado": "Retirado",
-            "riesgo": "Alto"
-        },
-        {
-            "id": 831656449,
-            "nombres": "Sebastián",
-            "apellidos": "Rojas Herrera",
-            "direccion": "Carrera 26 #20-50",
-            "acudiente": "Ana María Gómez Ramírez",
-            "telefono": "3666999861",
-            "estado": "Cursando",
-            "riesgo": "Bajo"
-        },
-        {
-            "id": 146439284,
-            "nombres": "Fernando",
-            "apellidos": "Rodríguez Pérez",
-            "direccion": "Carrera 28 #40-24",
-            "acudiente": "Alejandro Martínez Sánchez",
-            "telefono": "3753642940",
-            "estado": "En proceso de ingreso",
-            "riesgo": "Alto"
-        }],
-        "trainers": [{
-
-            "id":3,
-            "Nombre": "Ana",
-            "Ruta": [3],
-            "Horario": "6.00Am / 2:00Pm"
-        
-        }]
-},
         "Sputnik": {
-        "capacidad_maxima": 33,
-        "campers": [ {
-            "id": 212755072,
-            "nombres": "Sebastián",
-            "apellidos": "Hernández Castro",
-            "direccion": "Carrera 32 #30-43",
-            "acudiente": "Lucía Díaz Fernández",
-            "telefono": "3560918510",
-            "estado": "En proceso de ingreso",
-            "riesgo": "Bajo"
+            "clases": {
+                "mañana": {
+                    "grupo": []
+                },
+                "tarde": {
+                    "grupo": []
+                },
+                "noche": {
+                    "grupo": []
+                }
+            }
         },
-        {
-            "id": 748130879,
-            "nombres": "Valentina",
-            "apellidos": "Morales Vargas",
-            "direccion": "Carrera 49 #10-23",
-            "acudiente": "Daniel Gómez Ramírez",
-            "telefono": "3739840782",
-            "estado": "Retirado",
-            "riesgo": "Medio"
-        },
-        {
-            "id": 654977331,
-            "nombres": "Jorge Eduardo",
-            "apellidos": "Hernández Castro",
-            "direccion": "Carrera 63 #36-16",
-            "acudiente": "Miguel Martínez Sánchez",
-            "telefono": "3784104550",
-            "estado": "En proceso de ingreso",
-            "riesgo": "Medio"
-        },
-        {
-            "id": 751771262,
-            "nombres": "Lucía",
-            "apellidos": "Navarro Medina",
-            "direccion": "Carrera 5 #91-6",
-            "acudiente": "Lucía Navarro Medina",
-            "telefono": "3359658519",
-            "estado": "Graduado",
-            "riesgo": "Bajo"
-        },
-        {
-            "id": 696567719,
-            "nombres": "Alejandro",
-            "apellidos": "Díaz Fernández",
-            "direccion": "Carrera 78 #91-48",
-            "acudiente": "Miguel Gómez Ramírez",
-            "telefono": "3875642651",
-            "estado": "Graduado",
-            "riesgo": "Bajo"
-        },
-        {
-            "id": 587196588,
-            "nombres": "Isabela",
-            "apellidos": "Morales Vargas",
-            "direccion": "Carrera 68 #47-6",
-            "acudiente": "Alejandro Rojas Herrera",
-            "telefono": "3196711516",
-            "estado": "Graduado",
-            "riesgo": "Bajo"
-        },
-        {
-            "id": 142447200,
-            "nombres": "Mariana",
-            "apellidos": "Gómez Ramírez",
-            "direccion": "Carrera 26 #56-3",
-            "acudiente": "Andrea Hernández Castro",
-            "telefono": "3385075204",
-            "estado": "En proceso de ingreso",
-            "riesgo": "Alto"
-        },
-        {
-            "id": 568219546,
-            "nombres": "Sebastián",
-            "apellidos": "Rodríguez Pérez",
-            "direccion": "Carrera 18 #32-34",
-            "acudiente": "Isabela Morales Vargas",
-            "telefono": "3258727588",
-            "estado": "Retirado",
-            "riesgo": "Bajo"
-        },
-        {
-            "id": 691294275,
-            "nombres": "Camila",
-            "apellidos": "Gómez Ramírez",
-            "direccion": "Carrera 25 #17-37",
-            "acudiente": "Sofía Rodríguez Pérez",
-            "telefono": "3924278785",
-            "estado": "Cursando",
-            "riesgo": "Bajo"
-        },
-        {
-            "id": 295690586,
-            "nombres": "Valentina",
-            "apellidos": "Díaz Fernández",
-            "direccion": "Carrera 42 #54-33",
-            "acudiente": "Ricardo Díaz Fernández",
-            "telefono": "3452522342",
-            "estado": "En proceso de ingreso",
-            "riesgo": "Medio"
-        },
-        {
-            "id": 173401965,
-            "nombres": "Alejandro",
-            "apellidos": "López Torres",
-            "direccion": "Carrera 63 #72-28",
-            "acudiente": "Valentina Ortega Jiménez",
-            "telefono": "3908141988",
-            "estado": "Graduado",
-            "riesgo": "Bajo"
-        },
-        {
-            "id": 794682779,
-            "nombres": "Lucía",
-            "apellidos": "Rodríguez Pérez",
-            "direccion": "Carrera 53 #3-25",
-            "acudiente": "Isabela Rojas Herrera",
-            "telefono": "3750175993",
-            "estado": "En proceso de ingreso",
-            "riesgo": "Alto"
-        },
-        {
-            "id": 773255895,
-            "nombres": "Mariana",
-            "apellidos": "Ortega Jiménez",
-            "direccion": "Carrera 100 #63-21",
-            "acudiente": "Alejandro Martínez Sánchez",
-            "telefono": "3841613934",
-            "estado": "Graduado",
-            "riesgo": "Bajo"
-        },
-        {
-            "id": 843235261,
-            "nombres": "Andrea",
-            "apellidos": "Rodríguez Pérez",
-            "direccion": "Carrera 14 #60-3",
-            "acudiente": "Sofía Ortega Jiménez",
-            "telefono": "3762453138",
-            "estado": "Cursando",
-            "riesgo": "Alto"
-        },
-        {
-            "id": 470604130,
-            "nombres": "Alejandro",
-            "apellidos": "Gómez Ramírez",
-            "direccion": "Carrera 81 #26-25",
-            "acudiente": "Valentina Martínez Sánchez",
-            "telefono": "3344624383",
-            "estado": "En proceso de ingreso",
-            "riesgo": "Medio"
-        },
-        {
-            "id": 650654802,
-            "nombres": "Jorge Eduardo",
-            "apellidos": "López Torres",
-            "direccion": "Carrera 97 #45-41",
-            "acudiente": "Isabela Gómez Ramírez",
-            "telefono": "3125473974",
-            "estado": "Graduado",
-            "riesgo": "Bajo"
-        },
-        {
-            "id": 890283001,
-            "nombres": "Jorge Eduardo",
-            "apellidos": "Martínez Sánchez",
-            "direccion": "Carrera 87 #81-19",
-            "acudiente": "Patricia Hernández Castro",
-            "telefono": "3071538476",
-            "estado": "En proceso de ingreso",
-            "riesgo": "Medio"
-        },
-        {
-            "id": 883321322,
-            "nombres": "Gabriela",
-            "apellidos": "Ortega Jiménez",
-            "direccion": "Carrera 89 #3-35",
-            "acudiente": "Gabriela Hernández Castro",
-            "telefono": "3539032371",
-            "estado": "Cursando",
-            "riesgo": "Medio"
-        },
-        {
-            "id": 782035458,
-            "nombres": "Jorge Eduardo",
-            "apellidos": "Navarro Medina",
-            "direccion": "Carrera 46 #68-3",
-            "acudiente": "Carlos López Torres",
-            "telefono": "3640510697",
-            "estado": "Retirado",
-            "riesgo": "Medio"
-        },
-        {
-            "id": 365357897,
-            "nombres": "Ana María",
-            "apellidos": "López Torres",
-            "direccion": "Carrera 86 #97-37",
-            "acudiente": "Carlos Gómez Ramírez",
-            "telefono": "3158120923",
-            "estado": "En proceso de ingreso",
-            "riesgo": "Alto"
-        },
-        {
-            "id": 304911140,
-            "nombres": "Patricia",
-            "apellidos": "Gómez Ramírez",
-            "direccion": "Carrera 97 #41-21",
-            "acudiente": "Mariana Díaz Fernández",
-            "telefono": "3121788121",
-            "estado": "Cursando",
-            "riesgo": "Medio"
-        },
-        {
-            "id": 264433381,
-            "nombres": "Miguel",
-            "apellidos": "Morales Vargas",
-            "direccion": "Carrera 61 #81-6",
-            "acudiente": "Mariana Díaz Fernández",
-            "telefono": "3155406005",
-            "estado": "Cursando",
-            "riesgo": "Alto"
-        },
-        {
-            "id": 886262747,
-            "nombres": "Patricia",
-            "apellidos": "Morales Vargas",
-            "direccion": "Carrera 4 #68-50",
-            "acudiente": "Alejandro Rojas Herrera",
-            "telefono": "3806292009",
-            "estado": "Graduado",
-            "riesgo": "Alto"
-        },
-        {
-            "id": 375400213,
-            "nombres": "Miguel",
-            "apellidos": "Rodríguez Pérez",
-            "direccion": "Carrera 68 #71-6",
-            "acudiente": "Andrea Ortega Jiménez",
-            "telefono": "3999512278",
-            "estado": "Graduado",
-            "riesgo": "Bajo"
-        },
-        {
-            "id": 273108107,
-            "nombres": "Ricardo",
-            "apellidos": "Rodríguez Pérez",
-            "direccion": "Carrera 94 #67-12",
-            "acudiente": "Camila Martínez Sánchez",
-            "telefono": "3330190102",
-            "estado": "En proceso de ingreso",
-            "riesgo": "Bajo"
-        },
-        {
-            "id": 967347868,
-            "nombres": "Carlos",
-            "apellidos": "Ortega Jiménez",
-            "direccion": "Carrera 98 #77-26",
-            "acudiente": "Sofía Rojas Herrera",
-            "telefono": "3329333666",
-            "estado": "Cursando",
-            "riesgo": "Bajo"
-        },
-        {
-            "id": 427579005,
-            "nombres": "Lucía",
-            "apellidos": "Rojas Herrera",
-            "direccion": "Carrera 60 #88-42",
-            "acudiente": "Sofía Rojas Herrera",
-            "telefono": "3892607521",
-            "estado": "Cursando",
-            "riesgo": "Medio"
-        },
-        {
-            "id": 205371493,
-            "nombres": "Patricia",
-            "apellidos": "Ortega Jiménez",
-            "direccion": "Carrera 20 #78-24",
-            "acudiente": "Sofía Martínez Sánchez",
-            "telefono": "3393423773",
-            "estado": "En proceso de ingreso",
-            "riesgo": "Alto"
-        },
-        {
-            "id": 530625669,
-            "nombres": "Luis",
-            "apellidos": "Díaz Fernández",
-            "direccion": "Carrera 21 #46-35",
-            "acudiente": "Daniel Díaz Fernández",
-            "telefono": "3199961317",
-            "estado": "Cursando",
-            "riesgo": "Alto"
-        },
-        {
-            "id": 695091553,
-            "nombres": "Ricardo",
-            "apellidos": "Díaz Fernández",
-            "direccion": "Carrera 4 #41-24",
-            "acudiente": "Carlos López Torres",
-            "telefono": "3147819009",
-            "estado": "Graduado",
-            "riesgo": "Medio"
-        }],
-        "trainers": [{
-            "id":2,
-                "Nombre": "Miguel",
-                "Ruta": [2],
-                "Horario": "6.00Am / 6:00Pm"
-            
-            }]
-},
         "Artemis": {
-        "capacidad_maxima": 33,
-        "campers": [{
+            "clases": {
+                "mañana": {
+                    "grupo": []
+                },
+                "tarde": {
+                    "grupo": []
+                },
+                "noche": {
+                    "grupo": []
+                }
+            }
+        }
+    },
+    "Campers": [
+        {
             "id": 133146985,
             "nombres": "Sebastián",
             "apellidos": "Ortega Jiménez",
-            "direccion": "Carrera 30 #80-39",
-            "acudiente": "Daniel Martínez Sánchez",
-            "telefono": "3095419248",
             "estado": "En proceso de ingreso",
             "riesgo": "Bajo"
         },
@@ -537,300 +52,59 @@
             "id": 594983892,
             "nombres": "Valentina",
             "apellidos": "Hernández Castro",
-            "direccion": "Carrera 56 #16-39",
-            "acudiente": "Daniel Rojas Herrera",
-            "telefono": "3176933774",
             "estado": "Graduado",
             "riesgo": "Medio"
-        },
+        }
+    ],
+    "Trainers": [
         {
-            "id": 351986134,
-            "nombres": "Patricia",
-            "apellidos": "Navarro Medina",
-            "direccion": "Carrera 69 #65-41",
-            "acudiente": "Mariana López Torres",
-            "telefono": "3083434021",
-            "estado": "Graduado",
-            "riesgo": "Alto"
-        },
-        {
-            "id": 925190761,
-            "nombres": "Camila",
-            "apellidos": "Rodríguez Pérez",
-            "direccion": "Carrera 40 #86-13",
-            "acudiente": "Fernando Rojas Herrera",
-            "telefono": "3864978880",
-            "estado": "Retirado",
-            "riesgo": "Alto"
-        },
-        {
-            "id": 470216293,
-            "nombres": "Valentina",
-            "apellidos": "López Torres",
-            "direccion": "Carrera 80 #46-26",
-            "acudiente": "Luis Navarro Medina",
-            "telefono": "3271182346",
-            "estado": "Retirado",
-            "riesgo": "Medio"
-        },
-        {
-            "id": 451103369,
-            "nombres": "Ana María",
-            "apellidos": "Morales Vargas",
-            "direccion": "Carrera 92 #61-21",
-            "acudiente": "Jorge Eduardo Martínez Sánchez",
-            "telefono": "3960995171",
-            "estado": "Cursando",
-            "riesgo": "Alto"
-        },
-        {
-            "id": 219289442,
-            "nombres": "Sofía",
-            "apellidos": "Martínez Sánchez",
-            "direccion": "Carrera 34 #73-8",
-            "acudiente": "Daniel Morales Vargas",
-            "telefono": "3766297390",
-            "estado": "Cursando",
-            "riesgo": "Medio"
-        },
-        {
-            "id": 899696860,
-            "nombres": "Carlos",
-            "apellidos": "López Torres",
-            "direccion": "Carrera 75 #66-43",
-            "acudiente": "Mariana Rodríguez Pérez",
-            "telefono": "3043314973",
-            "estado": "En proceso de ingreso",
-            "riesgo": "Alto"
-        },
-        {
-            "id": 265527435,
-            "nombres": "Mariana",
-            "apellidos": "Gómez Ramírez",
-            "direccion": "Carrera 99 #10-26",
-            "acudiente": "Patricia Martínez Sánchez",
-            "telefono": "3497981514",
-            "estado": "En proceso de ingreso",
-            "riesgo": "Medio"
-        },
-        {
-            "id": 628604600,
-            "nombres": "Andrea",
-            "apellidos": "Ortega Jiménez",
-            "direccion": "Carrera 90 #16-6",
-            "acudiente": "Camila Martínez Sánchez",
-            "telefono": "3302712150",
-            "estado": "Cursando",
-            "riesgo": "Alto"
-        },
-        {
-            "id": 957807258,
-            "nombres": "Valentina",
-            "apellidos": "Hernández Castro",
-            "direccion": "Carrera 68 #55-45",
-            "acudiente": "Sofía Ortega Jiménez",
-            "telefono": "3673923881",
-            "estado": "En proceso de ingreso",
-            "riesgo": "Bajo"
-        },
-        {
-            "id": 302278643,
-            "nombres": "Miguel",
-            "apellidos": "Rodríguez Pérez",
-            "direccion": "Carrera 82 #50-8",
-            "acudiente": "David Rojas Herrera",
-            "telefono": "3634940963",
-            "estado": "Retirado",
-            "riesgo": "Bajo"
-        },
-        {
-            "id": 360844477,
-            "nombres": "Fernando",
-            "apellidos": "Martínez Sánchez",
-            "direccion": "Carrera 24 #53-39",
-            "acudiente": "David Rodríguez Pérez",
-            "telefono": "3665092203",
-            "estado": "Graduado",
-            "riesgo": "Medio"
-        },
-        {
-            "id": 671564002,
-            "nombres": "Patricia",
-            "apellidos": "López Torres",
-            "direccion": "Carrera 90 #75-49",
-            "acudiente": "Daniel Díaz Fernández",
-            "telefono": "3097546962",
-            "estado": "En proceso de ingreso",
-            "riesgo": "Bajo"
-        },
-        {
-            "id": 239070021,
-            "nombres": "Fernando",
-            "apellidos": "Rojas Herrera",
-            "direccion": "Carrera 93 #11-24",
-            "acudiente": "Sebastián Martínez Sánchez",
-            "telefono": "3787519166",
-            "estado": "Cursando",
-            "riesgo": "Bajo"
-        },
-        {
-            "id": 262229606,
-            "nombres": "Daniel",
-            "apellidos": "Ortega Jiménez",
-            "direccion": "Carrera 79 #19-14",
-            "acudiente": "Andrea Navarro Medina",
-            "telefono": "3136375932",
-            "estado": "Graduado",
-            "riesgo": "Alto"
-        },
-        {
-            "id": 703088743,
-            "nombres": "Ricardo",
-            "apellidos": "Navarro Medina",
-            "direccion": "Carrera 97 #59-32",
-            "acudiente": "Lucía Gómez Ramírez",
-            "telefono": "3966262937",
-            "estado": "Retirado",
-            "riesgo": "Medio"
-        },
-        {
-            "id": 618863114,
-            "nombres": "Isabela",
-            "apellidos": "Rojas Herrera",
-            "direccion": "Carrera 83 #64-23",
-            "acudiente": "Mariana Díaz Fernández",
-            "telefono": "3794197530",
-            "estado": "Cursando",
-            "riesgo": "Alto"
-        },
-        {
-            "id": 308580146,
-            "nombres": "Alejandro",
-            "apellidos": "Morales Vargas",
-            "direccion": "Carrera 94 #73-36",
-            "acudiente": "Mariana Rojas Herrera",
-            "telefono": "3365679020",
-            "estado": "Retirado",
-            "riesgo": "Bajo"
-        },
-        {
-            "id": 505931071,
-            "nombres": "Alejandro",
-            "apellidos": "Rodríguez Pérez",
-            "direccion": "Carrera 84 #69-23",
-            "acudiente": "Ana María López Torres",
-            "telefono": "3399500690",
-            "estado": "Cursando",
-            "riesgo": "Medio"
-        },
-        {
-            "id": 609691803,
-            "nombres": "Alejandro",
-            "apellidos": "Díaz Fernández",
-            "direccion": "Carrera 80 #26-2",
-            "acudiente": "Valentina Martínez Sánchez",
-            "telefono": "3406192312",
-            "estado": "Cursando",
-            "riesgo": "Bajo"
-        },
-        {
-            "id": 928487610,
-            "nombres": "Carlos",
-            "apellidos": "Martínez Sánchez",
-            "direccion": "Carrera 65 #60-40",
-            "acudiente": "Gabriela López Torres",
-            "telefono": "3809875404",
-            "estado": "Retirado",
-            "riesgo": "Alto"
-        },
-        {
-            "id": 671539005,
-            "nombres": "Andrea",
-            "apellidos": "Morales Vargas",
-            "direccion": "Carrera 4 #43-35",
-            "acudiente": "Fernando Navarro Medina",
-            "telefono": "3151625727",
-            "estado": "Retirado",
-            "riesgo": "Bajo"
-        },
-        {
-            "id": 942755914,
-            "nombres": "Carlos",
-            "apellidos": "Rojas Herrera",
-            "direccion": "Carrera 29 #34-31",
-            "acudiente": "Camila Navarro Medina",
-            "telefono": "3190129779",
-            "estado": "Retirado",
-            "riesgo": "Alto"
-        },
-        {
-            "id": 808263156,
-            "nombres": "Lucía",
-            "apellidos": "Martínez Sánchez",
-            "direccion": "Carrera 48 #86-6",
-            "acudiente": "Sebastián Rojas Herrera",
-            "telefono": "3746511903",
-            "estado": "Cursando",
-            "riesgo": "Alto"
-        },
-        {
-            "id": 652468788,
-            "nombres": "Andrea",
-            "apellidos": "López Torres",
-            "direccion": "Carrera 63 #79-28",
-            "acudiente": "Sofía Hernández Castro",
-            "telefono": "3452085307",
-            "estado": "En proceso de ingreso",
-            "riesgo": "Medio"
-        },
-        {
-            "id": 675205111,
-            "nombres": "Daniel",
-            "apellidos": "Hernández Castro",
-            "direccion": "Carrera 85 #91-47",
-            "acudiente": "Sebastián Gómez Ramírez",
-            "telefono": "3397263770",
-            "estado": "Graduado",
-            "riesgo": "Bajo"
-        },
-        {
-            "id": 759604775,
-            "nombres": "Miguel",
-            "apellidos": "Navarro Medina",
-            "direccion": "Carrera 3 #6-35",
-            "acudiente": "Sofía Ortega Jiménez",
-            "telefono": "3623440030",
-            "estado": "Retirado",
-            "riesgo": "Medio"
-        },
-        {
-            "id": 749114443,
-            "nombres": "Gabriela",
-            "apellidos": "López Torres",
-            "direccion": "Carrera 65 #57-8",
-            "acudiente": "Isabela Hernández Castro",
-            "telefono": "3740937568",
-            "estado": "Retirado",
-            "riesgo": "Bajo"
-        },
-        {
-            "id": 433789684,
-            "nombres": "Ricardo",
-            "apellidos": "Gómez Ramírez",
-            "direccion": "Carrera 66 #73-37",
-            "acudiente": "Patricia Ortega Jiménez",
-            "telefono": "3147907256",
-            "estado": "Retirado",
-            "riesgo": "Medio"
-        }],
-        "trainers": [{
-
-            "id":1,
+            "id": 1,
             "Nombre": "Pedro Gomez",
-            "Ruta": [1],
-            "Horario": "6.00Am / 6:00Pm"
-        
-        }]
-}
-    }
+            "Ruta": [
+                1
+            ],
+            "Horario": "6:00Am - 6:00Pm"
+        },
+        {
+            "id": 2,
+            "Nombre": "Miguel",
+            "Ruta": [
+                2
+            ],
+            "Horario": "6:00Am - 6:00Pm"
+        }
+    ],
+    "Rutas": [
+        {
+            "id": 1,
+            "Modulo1": "Java",
+            "Skills1": [
+                "intro",
+                "python",
+                "html/css",
+                "scrum",
+                "git",
+                "javaScript",
+                "introBack",
+                "introBBDD",
+                "MySQL",
+                "SpringBoot"
+            ],
+            "Modulo2": "NodeJS",
+            "Skills2": [
+                "intro",
+                "python",
+                "html/css",
+                "scrum",
+                "git",
+                "javaScript",
+                "introBack",
+                "introBBDD",
+                "MongoDB",
+                "JavaScript",
+                "MySQL",
+                "Express"
+            ]
+        }
+    ]
 }

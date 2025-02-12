@@ -5,9 +5,7 @@
                 "salon": "Artemis",
                 "trainer": "Pedro",
                 "estudiantes": [
-                    {
-                        "Nombre": "venao"
-                    }
+                    {}
                 ]
             }
         },

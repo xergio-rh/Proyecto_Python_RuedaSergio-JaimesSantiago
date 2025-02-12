@@ -1,14 +1,17 @@
 import json
+
+
+
 from menus import *
 def abrirJSON(Ruta):
     dicFinal={}
-    with open(f'./{Ruta}.json','r') as openFile:
+    with open(f'./campers.json','r') as openFile:
         dicFinal=json.load(openFile)
     return dicFinal
 zzz={}
 
 def guardarJSON(dic,Ruta):
-    with open(f"./{Ruta}.json",'w') as outFile:
+    with open(f"./campers.json",'w') as outFile:
         json.dump(dic,outFile)
 
 
@@ -22,78 +25,112 @@ while lie==True:
     seleccion=int(input(": "))
     if seleccion==1:
         menu_campers_registro ()
-        ruta="campers"
-
         opc = int(input(":"))
-
-        if opc == 1:
-            menu_campers ()
-        elif opc ==2:
-            print ("Espere su registro")
-        zzz=abrirJSON(ruta)
-
-
-        lie=False 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+        data= {}
+        def abrirJSON(campers):
+            if opc == 1:
+                menu_campers ()
+            elif opc ==2:
+                print("Ingrese su numero de documeto:")
+                id=input(":")
+                print("Ingrese su nombre:")
+                name=input(":")
+                print("Ingrese su apellido:")
+                lastname=input(":")
+                print("Ingrese su direccion")
+                direccion=input(":")
+                print("Ingrese el nombre de su acudiente:")
+                acudiente=input(":")
+                print("Ingrese su numero de telefono:")
+                telefono=input(":")
+                print("Ingrese su estado (En proceso de ingreso, Inscrito, Aprobado,Cursando, Graduado, Expulsado, Retirado):")
+                estado=input(":")
+        
+            if id in data [ "campers"]:
+                print("El estudiante ya esta registrado")
+            else:
+                data["campers"].append({
+                    "id": id,
+                    "nombres": name,
+                    "apellidos": lastname,
+                    "direccion": direccion,
+                    "acudiente": acudiente,
+                    "telefono": telefono,
+                    "estado": estado, 
+                    "riesgo": ""})
+                guardarJSON(data)
+                    
 
 
+                
+                
+        
 
-        1
-    elif seleccion==2:
-        menu_trainers()
-        ruta="trainers"
-        zzz=abrirJSON(ruta)
-        lie = False
-    if seleccion==3:
-        menu_coordinador()
-        asignacion=int(input(": "))
-        ruta="coordinador"
-        zzz={}
-        zzz=abrirJSON(ruta)
-        if asignacion==11:
-            rta1="Cmapers"
-            campers=abrirJSON(rta1)
-            rta2="grupos"
-            nombredeldiccionario=abrirJSON(rta2)
-            salon=input("Ingrese el nombre del salon: ")
-            id=int(input("Ingrese el id del estudiante a asginar: "))
-            for i in range (len(campers["Campers"])):
-                confirmacion=campers["Campers"][i]["id"]
-                if confirmacion==id:
-                    nombre=campers["Campers"][i]["nombres"]
-                    apellidos=campers["Campers"][i]["apellidos"]
-                    direccion=campers["Campers"][i]["direccion"]
-                    acudiente=campers["Campers"][i]["acudiente"]
-                    telefono=campers["Campers"][i]["telefono"]
-                    estado=campers["Campers"][i]["estado"]
-                    riesgo=campers["Campers"][i]["riesgo"]
-            if salon=="s1":
-                grupo=nombredeldiccionario[rta2][0][salon]["estudiantes"]
-                grupo.append({"Nombre":nombre,"Apellido":apellidos,"direccion":direccion, "acudiente": acudiente, "telefono":telefono, "estado":estado, "riesgo": riesgo})
+
+        
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+eli=True
+while eli==True:   
+        Opc = input()    
+        if opc==2:
+            menu_trainers()
+        eli = False
+
+
+
+
+
+
+
+
+        
+   # if opc==3:#
+    #    menu_coordinador()#
+     #   asignacion=int(input(": "))#
         
