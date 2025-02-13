@@ -1,6 +1,6 @@
 import json
 
-# Funciones para manejo de archivos JSON
+
 def abrir_JSON(ruta):
     try:
         with open(f"{ruta}.json", 'r') as file:
@@ -12,7 +12,7 @@ def guardar_JSON(ruta, data):
     with open(f"{ruta}.json", 'w') as file:
         json.dump(data, file, indent=4)
 
-# CRUD CAMPERS
+
 def agregar_camper():
     campers = abrir_JSON("campers")
     id_camper = input("Ingrese ID del camper: ")
@@ -39,7 +39,6 @@ def ver_campers():
     for id_camper, datos in campers.items():
         print(f"ID: {id_camper}, Nombre: {datos['nombre']}, Curso: {datos['curso']}")
 
-# CRUD TRAINERS
 def agregar_trainer():
     trainers = abrir_JSON("trainers")
     id_trainer = input("Ingrese ID del trainer: ")
@@ -66,7 +65,6 @@ def ver_trainers():
     for id_trainer, datos in trainers.items():
         print(f"ID: {id_trainer}, Nombre: {datos['nombre']}")
 
-# ASIGNACIONES
 def asignar_curso_a_camper():
     campers = abrir_JSON("campers")
     id_camper = input("Ingrese ID del camper: ")
@@ -89,7 +87,6 @@ def asignar_trainer_a_ruta():
     guardar_JSON("trainers", trainers)
     print("Ruta asignada correctamente.")
 
-# MENÚ PRINCIPAL
 def menu_principal():
     while True:
         print("""
@@ -110,7 +107,6 @@ def menu_principal():
         else:
             print("Opción no válida.")
 
-# MENÚS SECUNDARIOS
 def menu_campers():
     while True:
         print("""

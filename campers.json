@@ -1,48 +1,48 @@
 {
     "Campers": [
         {
-            "id": 133146985,
+            "id": 1,
             "nombres": "Sebastián",
             "apellidos": "Ortega Jiménez",
             "direccion": "Carrera 30 #80-39",
             "acudiente": "Daniel Martínez Sánchez",
             "telefono": "3095419248",
-            "estado": "En proceso de ingreso",
+            "estado": "Cursando",
             "riesgo": "Bajo"
             
         },
         {
-            "id": 594983892,
+            "id":2,
             "nombres": "Valentina",
             "apellidos": "Hernández Castro",
             "direccion": "Carrera 56 #16-39",
             "acudiente": "Daniel Rojas Herrera",
             "telefono": "3176933774",
-            "estado": "Graduado",
+            "estado": "Cursando",
             "riesgo": "Medio"
         },
         {
-            "id": 351986134,
+            "id": 3,
             "nombres": "Patricia",
             "apellidos": "Navarro Medina",
             "direccion": "Carrera 69 #65-41",
             "acudiente": "Mariana López Torres",
             "telefono": "3083434021",
-            "estado": "Graduado",
+            "estado": "Cursando",
             "riesgo": "Alto"
         },
         {
-            "id": 925190761,
+            "id": 4,
             "nombres": "Camila",
             "apellidos": "Rodríguez Pérez",
             "direccion": "Carrera 40 #86-13",
             "acudiente": "Fernando Rojas Herrera",
             "telefono": "3864978880",
-            "estado": "Retirado",
+            "estado": "Cursando",
             "riesgo": "Alto"
         },
         {
-            "id": 470216293,
+            "id": 5,
             "nombres": "Valentina",
             "apellidos": "López Torres",
             "direccion": "Carrera 80 #46-26",
@@ -52,7 +52,7 @@
             "riesgo": "Medio"
         },
         {
-            "id": 451103369,
+            "id": 6,
             "nombres": "Ana María",
             "apellidos": "Morales Vargas",
             "direccion": "Carrera 92 #61-21",
@@ -62,7 +62,7 @@
             "riesgo": "Alto"
         },
         {
-            "id": 219289442,
+            "id": 7,
             "nombres": "Sofía",
             "apellidos": "Martínez Sánchez",
             "direccion": "Carrera 34 #73-8",
@@ -72,7 +72,7 @@
             "riesgo": "Medio"
         },
         {
-            "id": 899696860,
+            "id": 8,
             "nombres": "Carlos",
             "apellidos": "López Torres",
             "direccion": "Carrera 75 #66-43",
@@ -82,7 +82,7 @@
             "riesgo": "Alto"
         },
         {
-            "id": 265527435,
+            "id": 9,
             "nombres": "Mariana",
             "apellidos": "Gómez Ramírez",
             "direccion": "Carrera 99 #10-26",
@@ -92,7 +92,7 @@
             "riesgo": "Medio"
         },
         {
-            "id": 628604600,
+            "id": 10,
             "nombres": "Andrea",
             "apellidos": "Ortega Jiménez",
             "direccion": "Carrera 90 #16-6",
@@ -102,7 +102,7 @@
             "riesgo": "Alto"
         },
         {
-            "id": 957807258,
+            "id": 11,
             "nombres": "Valentina",
             "apellidos": "Hernández Castro",
             "direccion": "Carrera 68 #55-45",
@@ -112,7 +112,7 @@
             "riesgo": "Bajo"
         },
         {
-            "id": 302278643,
+            "id": 12,
             "nombres": "Miguel",
             "apellidos": "Rodríguez Pérez",
             "direccion": "Carrera 82 #50-8",
@@ -122,7 +122,7 @@
             "riesgo": "Bajo"
         },
         {
-            "id": 360844477,
+            "id": 13,
             "nombres": "Fernando",
             "apellidos": "Martínez Sánchez",
             "direccion": "Carrera 24 #53-39",
@@ -130,6 +130,194 @@
             "telefono": "3665092203",
             "estado": "Graduado",
             "riesgo": "Medio"
-        }
+        },
+        {
+            "id": 301,
+            "nombres": "Andrés",
+            "apellidos": "Gómez Rojas",
+            "direccion": "Calle 12 #45-67",
+            "acudiente": "Carlos Gómez",
+            "telefono": "3123456789",
+            "estado": "Inscrito",
+            "riesgo": "Bajo"
+            },
+            {
+            "id": 302,
+            "nombres": "Sofía",
+            "apellidos": "Martínez Pérez",
+            "direccion": "Carrera 23 #10-20",
+            "acudiente": "Luisa Pérez",
+            "telefono": "3109876543",
+            "estado": "Inscrito",
+            "riesgo": "Medio"
+            },
+            {
+            "id": 303,
+            "nombres": "Mateo",
+            "apellidos": "Hernández López",
+            "direccion": "Avenida 7 #98-56",
+            "acudiente": "Jorge Hernández",
+            "telefono": "3012233445",
+            "estado": "Inscrito",
+            "riesgo": "Alto"
+            },
+            {
+            "id": 304,
+            "nombres": "Valentina",
+            "apellidos": "Rodríguez Vargas",
+            "direccion": "Calle 50 #30-14",
+            "acudiente": "Diana Vargas",
+            "telefono": "3209988776",
+            "estado": "Inscrito",
+            "riesgo": "Bajo"
+            },
+            {
+            "id": 305,
+            "nombres": "Samuel",
+            "apellidos": "Torres Jiménez",
+            "direccion": "Carrera 100 #20-32",
+            "acudiente": "Roberto Torres",
+            "telefono": "3152233445",
+            "estado": "Inscrito",
+            "riesgo": "Medio"
+            },
+            {
+            "id": 306,
+            "nombres": "Camila",
+            "apellidos": "Ortega Silva",
+            "direccion": "Diagonal 15 #89-12",
+            "acudiente": "Elena Silva",
+            "telefono": "3023344556",
+            "estado": "Inscrito",
+            "riesgo": "Alto"
+            },
+            {
+            "id": 307,
+            "nombres": "Julián",
+            "apellidos": "Muñoz Castillo",
+            "direccion": "Transversal 9 #78-45",
+            "acudiente": "Eduardo Muñoz",
+            "telefono": "3114455667",
+            "estado": "Inscrito",
+            "riesgo": "Bajo"
+            },
+            {
+            "id": 308,
+            "nombres": "Isabela",
+            "apellidos": "García León",
+            "direccion": "Calle 40 #15-23",
+            "acudiente": "Paula León",
+            "telefono": "3045566778",
+            "estado": "Inscrito",
+            "riesgo": "Medio"
+            },
+            {
+            "id": 309,
+            "nombres": "Diego",
+            "apellidos": "Castro Moreno",
+            "direccion": "Carrera 18 #50-60",
+            "acudiente": "Marcos Castro",
+            "telefono": "3166677889",
+            "estado": "Inscrito",
+            "riesgo": "Alto"
+            },
+            {
+            "id": 310,
+            "nombres": "Mariana",
+            "apellidos": "López Cárdenas",
+            "direccion": "Avenida 60 #12-34",
+            "acudiente": "Lorena Cárdenas",
+            "telefono": "3197788990",
+            "estado": "Inscrito",
+            "riesgo": "Bajo"
+            }
+        
+        
+    ],
+    "Trainers": [{
+
+        "id":1,
+        "Nombre": "Pedro Gomez",
+        "Ruta": [1],
+        "Horario": "6.00Am / 6:00Pm"
+    
+    },
+    {
+    "id":2,
+        "Nombre": "Miguel",
+        "Ruta": [2],
+        "Horario": "6.00Am / 6:00Pm"
+    
+    },
+    {
+    
+        "id":3,
+        "Nombre": "Ana",
+        "Ruta": [3],
+        "Horario": "6.00Am / 2:00Pm"
+    
+    },
+    {
+    
+        "id":4,
+        "Nombre": "Lucia",
+        "Ruta": [],
+        "Horario": "6.00Am / 2:00Pm,     6:00Pm / 10:00Pm"
+    
+    },
+    {
+    
+        "id":5,
+        "Nombre": "Ambar",
+        "Ruta": [],
+        "Horario": "2:00Pm / 8:00Pm"
+    }
+    ],
+    "Rutas":[{
+        "id":1,
+    
+        "Modulo1":
+        "Java",
+    
+        "Skills1":
+        "intro, python, httml/css, scrum, git, javaSript, introBack, introBBDD, MySQL, SpringBot "
+        ,
+        
+        "Modu":
+        "NodeJSlo2",
+        
+        "Skills2":
+        "intro, python, httml/css, scrum, git, javaSript, introBack, introBBDD,mongoDB, JavaScript, MySQL, Express"
+    },
+    {
+        "id":2,
+    
+        "Modulo1":
+        "Fundamientos de programacion ",
+    
+        "Skills1": 
+        "Introduccion a la algoritmia, Pseint, Python",
+    
+        "Modulo2": 
+        "Programacion web",
+    
+        "skills2": 
+        "html, css, bootstrap"
+    },
+    {
+        "id":3,
+    
+        "Modulo1":
+        "Programación formal ",
+    
+        "Skills1": 
+        "Java, JavaScript, C#",
+    
+        "Modulo2": 
+        "Bases de datos",
+    
+        "skills2": 
+        "Mysql, MongoDb y Postgresql"
+    }
     ]
-}
+    }

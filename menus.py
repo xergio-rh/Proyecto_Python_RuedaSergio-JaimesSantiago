@@ -9,21 +9,10 @@ def menu_principal():
 """)
     
 
-def menu_campers_registro ():
-    print("""
-    
-    ¿Estas inscrito?
-    1. si
-    2. no
-
-""")
-
-
-
 def menu_campers ():
     print("""
     
-    1. Ver curso asignado
+    1. Ver cursos
     2. Ver notas
     3. salir 
 
@@ -52,11 +41,11 @@ def menu_coordinador ():
     9. agregar nueva ruta
     10.asignar ruta a trainer
     11. asignar campers a un grupo
-    
     12. asignar trainers a un grupo
 
 """)
     
+ 
 
 
 
